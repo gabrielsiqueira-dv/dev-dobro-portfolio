@@ -36,6 +36,10 @@
     .sobre-mim .informacoes-sobre-mim{
         padding: 0 var(--mobile-padding);
         text-align: center;
-        max-width: 100%;
     }
+    .sobre-mim .informacoes-sobre-mim{
+        max-width: 100%;
+
+    }
+    
 }
